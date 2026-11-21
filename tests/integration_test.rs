@@ -1,4 +1,4 @@
-use arch_lts::Component;
+use sigmaos_lts::Component;
 
 #[test]
 fn test_component_new_aaa() {

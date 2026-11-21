@@ -1,6 +1,6 @@
-# SigmaOS-arch-lts
+# SigmaOS-lts
 
-SigmaOS SigmaOS-arch-lts component
+SigmaOS SigmaOS-lts component
 
 - **Category:** Components
 - **Engine:** component

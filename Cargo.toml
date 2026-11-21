@@ -1,10 +1,10 @@
 [package]
-name = "arch-lts"
+name = "sigmaos-lts"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-lts component - SigmaOS component"
+description = "SigmaOS SigmaOS-lts component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-lts"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-lts"
 
 [dependencies]
 thiserror = "2"
